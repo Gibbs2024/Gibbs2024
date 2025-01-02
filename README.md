@@ -1,35 +1,24 @@
-# Name : Gibson Nyabuto
+## ``Name``
+Gibson Nyabuto
 
-Foobar is a Python library for dealing with word pluralization.
+## ``` About myself ```
+* I am Certified Public Accountant & aspiring Software Engineer with 10+ years of experience at Big Four firms (PwC, Deloitte, EY) across the UK and East Africa.
+* I am Expertise in financial advisory, audit management, and IFRS compliance, with a proven track record of leading digital transformation initiatives and managing cross-functional teams.
+* I am currently expanding my technical horizons through Software Engineering bootcamp while building on my Python programming skills.
+* I am passionate about bridging the gap between finance and technology, with experience in implementing digital audit tools and data analysis solutions.
+* I have been recognized for academic excellence: National awards in Financial Statement Analysis (CSIA) and top performer in CPA examinations.
 
-## Installation
+## ``Interests``
+* Fintech innovation,
+* process automation,
+* cycling,
+* roller skating, and
+* chess.
+#### #FinanceProfessional # SoftwareEngineering # DigitalTransformation # TechAndFinance # ContinuousLearning
+  
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
+## ```Linkedin Profile```
 
-## Usage
+[Gibson M Nyabuto](https://www.linkedin.com/in/cpa-gibson-nyabuto-80866771?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
