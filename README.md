@@ -1,4 +1,4 @@
-# Foobar
+# Name : Gibson Nyabuto
 
 Foobar is a Python library for dealing with word pluralization.
 
